@@ -1,4 +1,4 @@
-var en = {
+var my = {
     Save: "Simpan",
     "Save all": "Simpan semua",
     Rename: "Namakan semula",
